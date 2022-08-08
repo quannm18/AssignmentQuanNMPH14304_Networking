@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/drawable-v24/custom_box_outline.xml" value="0.1765" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/drawable/change_state_bottom_nav.xml" value="0.176" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/drawable/custom_bg_edt.xml" value="0.1075" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/drawable/custom_checkbox.xml" value="0.1075" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/drawable/ic_circle_check_solid.xml" value="0.1075" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/drawable/ic_user_check_solid.xml" value="0.1075" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/drawable/ic_x_circle.xml" value="0.1075" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/layout/activity_change_password.xml" value="0.12158054711246201" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/layout/activity_login.xml" value="0.17582417582417584" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/layout/activity_sign_up.xml" value="0.12" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/layout/activity_splash.xml" value="0.12158054711246201" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/layout/dialog_empty.xml" value="0.176" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/layout/dialog_update.xml" value="0.264" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/layout/fragment_finished.xml" value="0.20717131474103587" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/layout/fragment_home.xml" value="0.1897810218978102" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/layout/fragment_user.xml" value="0.20553359683794467" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/layout/row_finished.xml" value="0.2" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/layout/row_todo_home.xml" value="0.253125" />
+        <entry key="..\:/AndroidStudio/FileSave/MOB403_AndroidNetworking/AssignmentQuanNMPH14304_Networking/app/src/main/res/menu/menu_bottom_nav.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

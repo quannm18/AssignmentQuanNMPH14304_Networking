@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/box">
+        <shape>
+            <solid android:color="@color/white"/>
+            <corners android:radius="16dp"/>
+        </shape>
+        <inset android:insetBottom="100dp"
+            android:insetRight="16dp"/>
+    </item>
+</layer-list>
